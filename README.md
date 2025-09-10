@@ -26,7 +26,7 @@ Oyuncular için ajan, harita, silah, oyun modu ve e-spor verilerini tek bir uygu
 ### 🚀 Kurulum
 ```bash
 # Repoyu klonla
-git clone https://github.com/kullaniciadi/valorant-fandom-app.git
+git clone https://github.com/bthnkuloglu/Valorant-Fandom-App.git
 
 # Projeye gir
 cd valorant-fandom-app
@@ -62,7 +62,7 @@ npx expo start
 
 ```bash
 # Clone repository
-git clone https://github.com/username/valorant-fandom-app.git
+git clone https://github.com/bthnkuloglu/Valorant-Fandom-App.git
 
 # Navigate
 cd valorant-fandom-app
